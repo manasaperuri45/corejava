@@ -9,7 +9,7 @@ public class Personexce {
 		int income=sc.nextInt();
 		
 		
-		person pp=new Person();
+		person pp = new person();
 		pp.setName(name);
 		pp.setIncome(income);
 		
